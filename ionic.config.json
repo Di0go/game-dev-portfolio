@@ -1,0 +1,8 @@
+{
+  "name": "Game Dev Portfolio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "c1a50928"
+}
