@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "http://Di0go.github.io/game-dev-portfolio",
+  "homepage": "https://di0go.github.io/game-dev-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
