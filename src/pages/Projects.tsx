@@ -30,7 +30,7 @@ const Projects: React.FC = () => {
                 <IonCardSubtitle style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>Unity | Mobile</IonCardSubtitle>
                 </IonCardHeader>
                 <IonCardContent style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                  <IonButton shape="round" href="Uno">See more...</IonButton>
+                  <IonButton shape="round" href="https://r.mtdv.me/videos/qbmnrK3PaX">See more...</IonButton>
                 </IonCardContent>
               </IonCard>
             </IonCol>
@@ -42,7 +42,7 @@ const Projects: React.FC = () => {
                 <IonCardSubtitle style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>Unity | PC</IonCardSubtitle>
                 </IonCardHeader>
                 <IonCardContent style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                  <IonButton shape="round" href="Tab3">See more...</IonButton>
+                  <IonButton shape="round" href="https://github.com/Di0go/EscapeLab">See more...</IonButton>
                 </IonCardContent>
               </IonCard>
             </IonCol>
@@ -54,7 +54,7 @@ const Projects: React.FC = () => {
                 <IonCardSubtitle style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>Unity | PC</IonCardSubtitle>
                 </IonCardHeader>
                 <IonCardContent style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                  <IonButton shape="round" href="Tab3">See more...</IonButton>
+                  <IonButton shape="round" href="https://william-meneses.itch.io/sniper-city">See more...</IonButton>
                 </IonCardContent>
               </IonCard>
             </IonCol>
@@ -73,7 +73,7 @@ const Projects: React.FC = () => {
                 <IonCardSubtitle style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>Unity | PC</IonCardSubtitle>
                 </IonCardHeader>
                 <IonCardContent style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                  <IonButton shape="round" href="Tab3">See more...</IonButton>
+                  <IonButton shape="round" href="https://william-meneses.itch.io/dive-king">See more...</IonButton>
                 </IonCardContent>
               </IonCard>
             </IonCol>
@@ -85,19 +85,19 @@ const Projects: React.FC = () => {
                 <IonCardSubtitle style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>Processing | PC</IonCardSubtitle>
                 </IonCardHeader>
                 <IonCardContent style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                  <IonButton shape="round" href="Tab3">See more...</IonButton>
+                  <IonButton shape="round" href="https://github.com/Di0go/JFighter">See more...</IonButton>
                 </IonCardContent>
               </IonCard>
             </IonCol>
             <IonCol>
             <IonCard>
-                <img alt="Silhouette of mountains" src="public\Images\diogo2.png" />
+                <img alt="Silhouette of mountains" src="public\Images\Tankyo.png" />
                 <IonCardHeader>
-                <IonCardTitle style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>Diogo Pinto</IonCardTitle>
-                <IonCardSubtitle style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>Game Developer</IonCardSubtitle>
+                <IonCardTitle style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>In Development</IonCardTitle>
+                <IonCardSubtitle style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>Unity | PC Multiplayer</IonCardSubtitle>
                 </IonCardHeader>
                 <IonCardContent style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                  <IonButton shape="round" href="Tab3">See more...</IonButton>
+                  <IonButton shape="round" href="https://r.mtdv.me/videos/qbmnrK3PaX">See more...</IonButton>
                 </IonCardContent>
               </IonCard>
             </IonCol>
