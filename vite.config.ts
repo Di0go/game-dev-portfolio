@@ -5,7 +5,7 @@ import { defineConfig } from 'vitest/config';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "https://di0go.github.io/game-dev-portfolio/",
+  base: "https://di0go.github.io/game-dev-portfolio/aboutme",
   plugins: [
     react(),
     legacy()
